@@ -1,0 +1,9 @@
+Task
+====
+Android Task
+You are required to ensure that the code can run on an emulator, or physical device. 
+1.	The application uses fragments and Viewpager which changes the screen every time the user swipes to the left or the right.
+Currently every time the user swipes it calls the same fragment. Edit the code to make to make it call all three of the fragments in the program (fragment_main,fragment_main1,fragment_main2).
+2.	Secondly create your own fragment and then include it into the swipe sequence so the user can now swipe four times.
+
+PinU recruitment task
