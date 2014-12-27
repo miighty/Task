@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ricardo\Downloads\PinU1\PinU1\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f5fa2183e286730a81f3076f19022539902a24f3">
+        <dex dex="C:\Users\Ricardo\Downloads\PinU1\PinU1\build\intermediates\pre-dexed\debug\android-support-v13-3aae2ca7b66242882344a5bf45ee7f0f5b39e74e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ricardo\AppData\Local\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Ricardo\Downloads\PinU1\PinU1\build\intermediates\pre-dexed\debug\support-v4-19.1.0-4a249b06c9149d398755daa055b1cb38143c7dd7.jar" />
+    </item>
+
+</items>

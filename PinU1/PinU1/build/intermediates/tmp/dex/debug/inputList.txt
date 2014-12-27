@@ -1,0 +1,3 @@
+C:\Users\Ricardo\Downloads\PinU1\PinU1\build\intermediates\classes\debug
+C:\Users\Ricardo\Downloads\PinU1\PinU1\build\intermediates\pre-dexed\debug\support-v4-19.1.0-4a249b06c9149d398755daa055b1cb38143c7dd7.jar
+C:\Users\Ricardo\Downloads\PinU1\PinU1\build\intermediates\pre-dexed\debug\android-support-v13-3aae2ca7b66242882344a5bf45ee7f0f5b39e74e.jar
